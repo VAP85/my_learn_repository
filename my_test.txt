@@ -3,5 +3,12 @@ line_2
 line_3 add in web
 line_4 test git gui
 
+<<<<<<< HEAD
 line_5  test revert
 -------------------
+=======
+
+line_5 test revert
+------------------
+------------------
+>>>>>>> 9cf4c50978d0a27a717adbae9d613b1774129914
