@@ -21,5 +21,4 @@ line_8 add new string
 
 line_9 test non fast-forward merge branch test_branch
 
-
-line_10 conflict solving -branch main
+line_11 conflict solving -branch Test_branch
