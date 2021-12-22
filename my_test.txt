@@ -24,3 +24,6 @@ line_9 test non fast-forward merge branch test_branch
 line_11 conflict solving -branch Test_branch
 
 line_10 test conflict_solving _main _branch
+
+line_12 conflict_solving _branch Test_branch
+
