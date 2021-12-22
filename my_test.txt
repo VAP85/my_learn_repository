@@ -18,3 +18,5 @@ line_5 test revert
 line_7 new branch  create
 
 line_8 add new string
+
+line_9 test non fast-forward merge branch test_branch
